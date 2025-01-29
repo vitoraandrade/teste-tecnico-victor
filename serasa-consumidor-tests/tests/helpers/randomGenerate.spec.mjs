@@ -3,8 +3,8 @@ function getRandomElement(array) {
 }
 
 function generateRandomName() {
-    const firstNames = ["Nicolas", "Maria", "Joana", "Carlos", "Julia", "Pedro", "Paulo", "Mariana"];
-    const lastNames = ["Silva", "Santos", "Oliveira", "Souza", "Rodrigues", "Ferreira", "Almeida", "Costa", "Gomes", "Martins"];
+    const firstNames = ["Victor", "Maria", "Joana", "Carlos", "Julia", "Pedro", "Paulo", "Mariana"];
+    const lastNames = ["Andrade", "Santos", "Oliveira", "Souza", "Rodrigues", "Ferreira", "Almeida", "Costa", "Gomes", "Martins"];
 
     const firstName = getRandomElement(firstNames);
     // const lastName = getRandomElement(lastNames);
