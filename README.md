@@ -1,6 +1,6 @@
-# Serasa Consumidor - Teste Analista de Qualidade Senior
+# Serasa Consumidor - Teste Analista de Qualidade PL
 
-Olá, obrigado pelo interesse em fazer parte da nossa equipe.  
+Olá, obrigado pelo interesse Victor Andrade em fazer parte da nossa equipe.  
 
 O objetivo deste teste é verificar (até certo ponto) suas habilidades de qualidade e de automação. Para isso você receberá um case onde poderá mostrar suas técnicas de levantamento de cenários e automação de testes.
 
